@@ -1,0 +1,5 @@
+The data requirements for the communication between the two DAGs are as follows:
+- DAG1 needs to send data to DAG2
+- The data will be in JSON format
+- The data will include information about the tasks that have been completed in DAG1
+- The data will also include information about the tasks that need to be completed in DAG2
